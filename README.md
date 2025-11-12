@@ -37,7 +37,7 @@ Portfolio website will be added soon.
 
 <iframe src="https://drive.google.com/file/d/1GwcOyGCnpxgUXZY0KVVIDuvguUA4KE4i/preview" width="100%" height="500"></iframe>
 
-[📥 Download CV](https://drive.google.com/uc?id=1GwcOyGCnpxgUXZY0KVVIDuvguUA4KE4i&export=download)
+ CV](https://drive.google.com/uc?id=1GwcOyGCnpxgUXZY0KVVIDuvguUA4KE4i&export=download)
 
 ---
 
