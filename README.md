@@ -22,6 +22,16 @@ This section will feature my best work once I’ve polished and uploaded my proj
 
 ---
 
+## 📊 GitHub Stats
+
+![Shieldsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shieldsx&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shieldsx&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shieldsx&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
 ## 📄 Portfolio & CV
 Portfolio website and downloadable CV will be added soon.
 
