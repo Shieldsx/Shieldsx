@@ -33,7 +33,11 @@ This section will feature my best work once I’ve polished and uploaded my proj
 ---
 
 ## 📄 Portfolio & CV
-Portfolio website and downloadable CV will be added soon.
+Portfolio website will be added soon.
+
+<iframe src="https://drive.google.com/file/d/1AbCdEfGhIJklMnOpQr/preview" width="100%" height="500"></iframe>
+
+[📥 Download CV](https://drive.google.com/uc?id=1GwcOyGCnpxgUXZY0KVVIDuvguUA4KE4i&export=download)
 
 ---
 
