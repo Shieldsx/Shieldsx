@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub
 
-<!--
-**Shieldsx/Shieldsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This space is where I learn, build, and experiment with code.  
+I’m focused on improving my skills in **web development**, **software design**, and **creative tech projects**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work With
+- **Languages:** HTML, CSS, JavaScript, Java, Python  
+- **Tools:** VS Code, Git, Node.js, React Native  
+- **Interests:** Front-end development, Back-end basics, and automation
+
+---
+
+## 🧩 Current Focus
+Learning best practices for clean, efficient code and building small full-stack projects.
+
+---
+
+## 🚀 Projects (Coming Soon)
+This section will feature my best work once I’ve polished and uploaded my projects.
+
+---
+
+## 📄 Portfolio & CV
+Portfolio website and downloadable CV will be added soon.
+
+---
+
+⭐ *Always learning. Always building.*
