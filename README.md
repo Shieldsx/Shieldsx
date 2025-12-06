@@ -6,8 +6,8 @@ I’m focused on improving my skills in **web development**, **software design**
 ---
 
 ## 🔧 What I Work With
-- **Languages:** HTML, CSS, JavaScript, Java, Python   
-- **Tools:** VS Code, Git, Node.js, React Native, WordPress,
+- **Languages:** HTML, CSS, Bootstrap, JavaScript, Python   
+- **Tools:** Node.js, React, WordPress
 - **Interests:** Front-end development, Back-end basics, SQL
 
 ---
