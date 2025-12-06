@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub
+# Welcome to my GitHub
 
 This space is where I learn, build, and experiment with code.  
 I’m focused on improving my skills in **web development**, **software design**, and **creative tech projects**.
